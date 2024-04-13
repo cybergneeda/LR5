@@ -1,0 +1,10 @@
+"The Complete Reference", 2019, Herbert Schieldt
+"Design Patterns", 2020, Eric Freeman, Elisabeth Robson
+"Head First Java", 2012, Kathy Sierra, Bert Bates
+"Effective Java", 2019, Joshua Bloch
+"Data Structures and the Java Collection Framework", 2015, William J. Collins
+“Head First JavaScript”, 2018, Eric Freeman, Elisabeth Robson
+“Spring in Action”, 2005, Craig Walls
+“Spring 5 Recipes: a problem-solution approach”, 2017, Marten Deinum
+“Head First HTML & CSS”, 2011, Eric Freeman
+“Pro Spring 5”, 2017, Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho
